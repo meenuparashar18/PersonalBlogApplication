@@ -5,3 +5,4 @@
 
 # Ignore environment variables file
 .env
+.vscode
