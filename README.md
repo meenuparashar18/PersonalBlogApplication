@@ -1,4 +1,4 @@
-<!-- # PersonalBlogApplication
+# PersonalBlogApplication
 # 📝 Blogging Platform
 
 This project is a web-based blogging platform developed to allow users to create, manage, and interact with blogs in a simple and efficient way. The platform provides features like user authentication, blog creation using Markdown, commenting system, and basic chatbot assistance.
@@ -30,4 +30,4 @@ This project is developed for academic purposes and focuses on implementing core
 ---
 
 ## 📌 Note
-This project is a basic implementation and does not include advanced features like real-time collaboration, AI recommendations, or mobile support. -->
+This project is a basic implementation and does not include advanced features like real-time collaboration, AI recommendations, or mobile support.
